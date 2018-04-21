@@ -25,7 +25,7 @@ SECRET_KEY = 'wp(sz)7)!t2*6z&ca&4t%3t2kqqyp^+zkraeztmrt=3gr1kjtk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'alexem1996.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'blogprojectstudent.pythonanywhere.com']
 
 
 # Application definition
